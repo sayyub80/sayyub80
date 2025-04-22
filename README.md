@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Sayyub Ansari</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
-- 🔭 I’m currently working on **Library Management System**
+- 🔭 I’m currently working on **SpeakAI – A platform to improve your English speaking skills**
 
 - 🌱 I’m currently learning **AWS**
 
