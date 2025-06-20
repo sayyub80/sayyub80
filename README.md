@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **SpeakAI – A platform to improve your English speaking skills**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://resume-lemon-three.vercel.app/](https://resume-lemon-three.vercel.app/)
 
